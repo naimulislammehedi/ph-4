@@ -1,0 +1,28 @@
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 10px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav li:hover {
+    background-color: blue;
+}
+
+.container {
+    background-color: blanchedalmond;
+}
+
+.content {
+    background-color: teal;
+    font-size: 2em;
+    max-width: 1140px;
+    margin: 0 auto;
+}
