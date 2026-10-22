@@ -1,7 +1,7 @@
-nav li {
+nav li{
     list-style: none;
     display: inline;
-    margin-right: 15px;
+    margin-right: 2px;
 }
 
 nav li:hover {
